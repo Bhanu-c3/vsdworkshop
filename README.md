@@ -20,9 +20,13 @@ RISC-V: It is a free and open instruction set architecture (ISA) enabling a new 
 Application software to Hardware:
       ->Application software directly interacts with system software, including the operating system (OS), compilers, and assemblers, to access hardware resources 
       efficiently.
-      ->The OS manages hardware resources and provides essential services, while compilers and assemblers translate high-level code into machine code i.e., it converts 
-      to binary codes and feeds to the hardware
+      
+      ->The OS manages hardware resources and provides essential services, while compilers and assemblers translate high-level code into machine code i.e., it converts to binary codes and feeds to the hardware
 
 ![Uploading Screenshot (24).png…]()
+
+we are using an open source platform for ASIC Design which was collabrated by google and skywater technology
+
+
 
 
