@@ -23,11 +23,11 @@ Application software to Hardware:
       
       ->The OS manages hardware resources and provides essential services, while compilers and assemblers translate high-level code into machine code i.e., it converts to binary codes and feeds to the hardware
 
-![Uploading Screenshot (24).png…]()
+![Screenshot (24)](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/40dc2849-2f0a-48b0-9596-1346ab967f2f)
 
 we are using an open source platform for ASIC Design which was collabrated by google and skywater technology.
 
-![Uploading Screenshot (25).png…]()
+![Screenshot (25)](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/e5ce628d-e4a7-4974-8e2d-1cb206cd8815)
 
 RTL2GDS Flow:
 
@@ -41,7 +41,6 @@ RTL2GDS Flow:
   
 - Routing: Determining optimal paths for interconnecting logical elements on the chip to establish functional connectivity while meeting timing and power constraints.
 
-  
 
 ![Screenshot (26)](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/cf701fa5-9ec3-413e-a85f-e4c8575df708)
 
