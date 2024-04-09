@@ -52,5 +52,9 @@ OpenLANE ASIC Flow:
 
 #### LABS(Using Virtual Box)-
 
+OpenLANE is an environment which integrates the open source tools for each stage in RTL2GDS flow.
+We enter into the OpenLANE by using the command 'docker' and './flow.tcl -interactive'
+we also use a command to prepare design that is 'prep -design picorv32a'. where PicoRV32A is a type of processor core based on the RISC-V architecture.
+
 
 
