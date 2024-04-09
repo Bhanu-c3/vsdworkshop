@@ -64,6 +64,14 @@ we also use a command to prepare design that is 'prep -design picorv32a'. where 
 Next, we run a synthesis command that is 'run_synthesis'
 Synthesis is the process of translating a high-level hardware description language (HDL) design, such as Verilog or VHDL, into a gate-level netlist that represents the logic components (e.g., AND gates, flip-flops) and their interconnections.
 
+![Screenshot 2024-04-09 205826](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/1a388c8f-1a0c-4d3a-9187-3644de24b32f)
+
+Listing the files created after the synthesis in a particular directory.
+
+![Screenshot 2024-04-09 210233](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/d38ec7ab-d3ba-4e3a-8424-c72adb43e147)
+
+
+
 
 
 
