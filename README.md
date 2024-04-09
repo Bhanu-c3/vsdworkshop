@@ -24,3 +24,5 @@ Application software to Hardware:
       to binary codes and feeds to the hardware
 
 ![Uploading Screenshot (24).png…]()
+
+
