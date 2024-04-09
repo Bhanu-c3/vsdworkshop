@@ -56,5 +56,15 @@ OpenLANE is an environment which integrates the open source tools for each stage
 We enter into the OpenLANE by using the command 'docker' and './flow.tcl -interactive'
 we also use a command to prepare design that is 'prep -design picorv32a'. where PicoRV32A is a type of processor core based on the RISC-V architecture.
 
+![Screenshot 2024-04-02 195226](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/d8aea15f-861f-4703-a3fe-4a60b5657bd0)
+
+
+![Screenshot 2024-04-02 195524](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/39ef21f1-d892-42df-9951-f3459cd785cb)
+
+Next, we run a synthesis command that is 'run_synthesis'
+Synthesis is the process of translating a high-level hardware description language (HDL) design, such as Verilog or VHDL, into a gate-level netlist that represents the logic components (e.g., AND gates, flip-flops) and their interconnections.
+
+
+
 
 
