@@ -25,7 +25,23 @@ Application software to Hardware:
 
 ![Uploading Screenshot (24).png…]()
 
-we are using an open source platform for ASIC Design which was collabrated by google and skywater technology
+we are using an open source platform for ASIC Design which was collabrated by google and skywater technology.
+
+![Uploading Screenshot (25).png…]()
+
+RTL2GDS Flow:
+
+- Synthesis: Converting high-level design specifications into a gate-level representation for hardware implementation.
+  
+- Floorplanning: Strategically arranging functional blocks on a chip's surface to optimize performance, power, and area usage.
+  
+- Placement: Assigning physical positions to logic cells or functional blocks within the chip's area to optimize interconnections.
+  
+- Clock Tree Synthesis: Creating a network of clock distribution paths to ensure uniform clock signal delivery across the chip, minimizing timing discrepancies.
+  
+- Routing: Determining optimal paths for interconnecting logical elements on the chip to establish functional connectivity while meeting timing and power constraints.
+
+  
 
 
 
