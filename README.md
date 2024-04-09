@@ -70,6 +70,14 @@ Listing the files created after the synthesis in a particular directory.
 
 ![Screenshot 2024-04-09 210233](https://github.com/Bhanu-c3/vsdworkshop/assets/165283408/d38ec7ab-d3ba-4e3a-8424-c72adb43e147)
 
+Categorize Synthesis results:
+From the data of synthesis, total number of counter D_flip-flops is 1613. and the number of cells is 14876.
+
+
+Flop ratio = (number of flip flops)/(number of total cell).
+
+Flop ratio = 10.84%.
+
 
 
 
